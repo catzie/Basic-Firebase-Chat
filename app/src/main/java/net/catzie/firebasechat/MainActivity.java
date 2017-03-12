@@ -36,4 +36,8 @@ public class MainActivity extends AppCompatActivity {
             displayChatMessages();
         }
     }
-}
+
+
+    private void displayChatMessages() {
+
+    }}
